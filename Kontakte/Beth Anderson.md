@@ -1,0 +1,14 @@
+---
+name: Beth Anderson
+addresses:
+  - "Work: INTERNATIONAL MONETARY FUND 700 19TH STREET, WASHINGTON, D.C."
+organization: imf
+title: SENIOR FACILITIES OFFICER FACILITIES MANAGEMENT DIVISION TECHNOLOGY AND GENERAL SERVICES DEPARTMENT
+email:
+  - "Home: banderson@imf.org"
+telephone:
+  - "Work: (202) 623-4126"
+  - (202) 589-4126
+iCloudVCard: '{"url":"https://contacts.icloud.com/311500889/carddavhome/card/M2VmZGU1YjAtNTg2MS00YWI3LWExZmMtYzkzMTIyODQ3ZmRi.vcf","etag":"\"kmfhbk9w\"","data":"BEGIN:VCARD\r\nVERSION:3.0\r\nFN:\r\nN:Anderson;Beth;;;\r\nUID:3efde5b0-5861-4ab7-a1fc-c93122847fdb\r\nADR;TYPE=WORK:;;INTERNATIONAL MONETARY FUND 700 19TH STREET;WASHINGTON;D.C.\r\n ;;;\r\nitem1663.X-ABLABEL:_$!<WorkFAX>!$_\r\nPRODID:ez-vcard 0.9.13-fc\r\nREV:2025-04-03T22:15:12Z\r\nORG:imf;\r\nTITLE:SENIOR FACILITIES OFFICER FACILITIES MANAGEMENT DIVISION TECHNOLOGY A\r\n ND GENERAL SERVICES DEPARTMENT\r\nEMAIL;TYPE=HOME:banderson@imf.org\r\nTEL;TYPE=WORK:(202) 623-4126\r\nTEL:(202) 589-4126\r\nEND:VCARD"}'
+---
+# Beth Anderson
