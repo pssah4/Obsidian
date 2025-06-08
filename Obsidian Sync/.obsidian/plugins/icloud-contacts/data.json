@@ -1,0 +1,13 @@
+{
+  "username": "hanke.sebastian@icloud.com",
+  "password": "uvku-ivvi-ltxi-njnk",
+  "folder": "Kontakte",
+  "isNameHeading": true,
+  "telLabels": false,
+  "emailLabels": false,
+  "urlLabels": false,
+  "relatedLabels": false,
+  "addressLabels": false,
+  "iCloudServerUrl": "https://contacts.icloud.com",
+  "excludedKeys": "n photo prodid rev uid version xAbadr xAbLabel xAblabel xAbShowAs xImagehash xImagetype xSharedPhotoDisplayPref xAddressingGrammar xAppleSubadministrativearea xAppleSublocality vnd63SensitiveContentConfig"
+}

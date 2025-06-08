@@ -1,9 +1,0 @@
----
-name: VidKo- Einwahldaten M3-127
-url:
-  - ms-outlook://people/AAMkAGE2MTZlN2ViLWM5YTgtNGE0Zi05MjUzLWE2N2ZmOTNiNzU1NwBGAAAAAAATi9mlcaWmRrOUSDPipn7pBwDaKeY3E0WlQqDBzbWTDvYeAAAAqKThAADHJuMw62o-TK0TKb6l_TD0AAAC2g-AAAA=?accountKey=8f7e2b1612c1987325fb966238129f30&accountExportedAt=559252279.911066
-note: "Dieser Kontakt ist schreibgeschützt. Tippen Sie auf den Link oben\\, umihn in Outlook zu bearbeiten.\\n\\nIntern: 29250\\n\\nExtern IP: 29250@video.enbw.com<mailto:29250@video.enbw.com> oder 195.35.74.126##29250\\n\\nExtern IS"
-dn: " +49 721 / 16021-29250\\n\\n\\n\\n"
-iCloudVCard: '{"url":"https://contacts.icloud.com/311500889/carddavhome/card/BF35E094-2DDF-4E02-BFF9-76B9C643F1DC.vcf","etag":"\"kmfhb1ah\"","data":"BEGIN:VCARD\r\nVERSION:3.0\r\nFN:\r\nN:M3-127;VidKo-;Einwahldaten;;\r\nUID:B54FC4AF-CA04-4B08-9D6F-BB32986644DA\r\nitem1.X-ABLABEL:Outlook\r\nPRODID:-//Apple Inc.//iOS 11.4.1//EN\r\nREV:2025-04-03T22:16:26Z\r\nURL:ms-outlook://people/AAMkAGE2MTZlN2ViLWM5YTgtNGE0Zi05MjUzLWE2N2ZmOTNiNzU\r\n 1NwBGAAAAAAATi9mlcaWmRrOUSDPipn7pBwDaKeY3E0WlQqDBzbWTDvYeAAAAqKThAADHJuMw62\r\n o-TK0TKb6l_TD0AAAC2g-AAAA=?accountKey=8f7e2b1612c1987325fb966238129f30&acco\r\n untExportedAt=559252279.911066\r\nORG:;\r\nNOTE:Dieser Kontakt ist schreibgeschützt. Tippen Sie auf den Link oben\\, um\r\n ihn in Outlook zu bearbeiten.\\n\\nIntern: 29250\\n\\nExtern IP: 29250@video.en\r\n bw.com<mailto:29250@video.enbw.com> oder 195.35.74.126##29250\\n\\nExtern IS\r\nDN: +49 721 / 16021-29250\\n\\n\\n\\n\r\nDN: +49 721 / 16021-29250\\n\\n\\n\\n\r\nDN: +49 721 / 16021-29250\\n\\n\\n\\n\r\nEND:VCARD"}'
----
-# VidKo- Einwahldaten M3-127
